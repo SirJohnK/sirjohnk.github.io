@@ -16,8 +16,6 @@
 title: "SirJohnK's Blog"
 subtitle: "Blogging about anything and everything!"
 url : "sirjohnk.com"
-header:
-  image : "assets/images/MAUI Banner.jpg"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
