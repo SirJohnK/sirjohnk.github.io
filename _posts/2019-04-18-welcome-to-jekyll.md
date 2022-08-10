@@ -1,6 +1,5 @@
 ---
 title: "The MAUI Journey - Part 1: MVVM & Navigation"
-date: 2022-08-10T09:30:00
 categories:
   - blog
 tags:
