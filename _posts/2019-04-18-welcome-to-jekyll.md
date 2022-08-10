@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "The MAUI Journey - Part 1: MVVM & Navigation"
+date: 2022-08-10T09:30:00
 categories:
   - blog
 tags:
@@ -8,6 +8,7 @@ tags:
   - update
 header:
   image: "/assets/images/MAUI Journey - Part 1.jpg"
+  teaser: "/assets/images/MAUI Journey - Part 1.jpg"
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
