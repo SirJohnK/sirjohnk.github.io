@@ -32,6 +32,9 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Stockholm
 
+# Do not generate posts in the future
+future: false
+
 include:
   - _pages
 
