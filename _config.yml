@@ -62,7 +62,7 @@ plugins:
 author:
   name      : "Johan Svensson"
   avatar    : "/assets/images/Profile.jpg"
-  bio       : "Movie buff, Director wannabe, .NET Certified Mobile Developer, PSVR fanboy, Dinosaur catcher..."
+  bio       : "Movie buff, Director wannabe, .NET Certified Mobile Developer, Dinosaur catcher..."
   location  : "Stockholm, Sweden"
   links:
     - label: "Twitter"
