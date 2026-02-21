@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohanKSvensson"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-square-linkedin"
+      url: "https://www.linkedin.com/in/sirjohnk/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SirJohnK"
